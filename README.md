@@ -1,9 +1,10 @@
 # Legends of Equestria Private Server
-Tested on Windows 10 with 27.07.2016 client release.
+Tested on Windows 10 with 27.07.2016 (July 2016) client release.
 # Content
-Server only has testing content (npcs, dialogs, monsters) and not any content from oficial server.
-# How to use
-You need php+mysql web server like this <a href="http://sourceforge.net/projects/wampserver/">Wamp Server</a>
+Server currently only has testing content (npcs, dialogs, monsters), not any content from the official servers. <br>
+
+# How to use (Server owners only)
+You need to use php+mysql web server like <a href="http://sourceforge.net/projects/wampserver/">Wamp Server.</a> Don't use any version newer than version 2.5
 <ol>
 <li>Execute <i>legends_of_equestria.sql</i> on mysql server.</li>
 <li>Compile and run <i>Server.exe</i> for generating default configs file.</li>
@@ -19,6 +20,22 @@ You need php+mysql web server like this <a href="http://sourceforge.net/projects
 <li>Implementer = 25</li>
 <li>Moderator = 30</li>
 <li>Admin = 255</li></ul>
-type help for full commands list</li>
+Type help for full commands list</li>
 <li>?????</li>
-<li>PROFIT!</li></ol>
+<li>PROFIT!</li></ol><br>
+# How to Play
+If you just interested in playing the game, download the appropriate client using one of the links below. Please read the rules <a href="https://drive.google.com/open?id=1LyqCj58siA432Rljs2TPhqx-6U1yogmtYudrJe7a6iw">here</a> before playing.<br>
+<li>Windows 32 bit: https://drive.google.com/open?id=0B3BIzDp2-1UlQ0tLc240UzdzZ2M</li>
+<li>Windows 64 bit: https://drive.google.com/open?id=0B3BIzDp2-1UlSGZvU0RPeVpGSW8</li>
+<li>OS X: https://drive.google.com/open?id=0B3BIzDp2-1Ulc1dySWhVTE85RU0</li>
+<li>Linux: https://drive.google.com/open?id=0B3BIzDp2-1UldnN6eVR2TmpKa2c</li>
+# Known Bugs
+<li> Feel free to make a patch or pull request if you've fixed any of these bugs.  </li>
+<li> 1. Server is known to crash when someone connects to the server, usually if there were no logins in for the last few hours.</li>
+<li> 2. The server doesn't update files.  In Windows, the server stores its files in C:users/username/appdata/locallow/LoE.  I don't know what the OS X/Linux folders are.  Deleting the files inside the data folder of the LoE folder allows the server to update.  </li>
+<li> 3. Inventory doesn't work on the January 2016 client and older.  
+<li> 4. Lantern Monster model not visible, but still deals damage.  </li>
+<li> 5. New ponies sometimes start off at level 0 instead of level 1. </li>
+<li> 6. Adding friends doesn't work </li>
+<li> 7. Portals fail to work on occasion </li>
+<li> 8. On occasion using /stuck and respawning after fainting sends players to the portal they arrived at instead of the default spawn point</li>
