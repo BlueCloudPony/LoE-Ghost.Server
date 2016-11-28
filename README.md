@@ -38,4 +38,5 @@ If you just interested in playing the game, download the appropriate client usin
 <li>  New ponies sometimes start off at level 0 instead of level 1. </li>
 <li>  Adding friends doesn't work </li>
 <li>  Portals fail to work on occasion </li>
+<li>  Number of talent points always remains at zero.  
 <li>  On occasion using /stuck and respawning after fainting sends players to the portal they arrived at instead of the default spawn point</li>
