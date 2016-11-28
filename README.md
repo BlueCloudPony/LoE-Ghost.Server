@@ -30,7 +30,7 @@ If you just interested in playing the game, download the appropriate client usin
 <li>OS X: https://drive.google.com/open?id=0B3BIzDp2-1Ulc1dySWhVTE85RU0</li>
 <li>Linux: https://drive.google.com/open?id=0B3BIzDp2-1UldnN6eVR2TmpKa2c</li>
 # Known Bugs
-<li> Feel free to make a patch or pull request if you've fixed any of these bugs.  </li>
+ Feel free to make a patch or pull request if you've fixed any of these bugs listed below. <br>
 <li> 1. Server is known to crash when someone connects to the server, usually if there were no logins in for the last few hours.</li>
 <li> 2. The server doesn't update files.  In Windows, the server stores its files in C:users/username/appdata/locallow/LoE.  I don't know what the OS X/Linux folders are.  Deleting the files inside the data folder of the LoE folder allows the server to update.  </li>
 <li> 3. Inventory doesn't work on the January 2016 client and older.  
