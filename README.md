@@ -31,11 +31,11 @@ If you just interested in playing the game, download the appropriate client usin
 <li>Linux: https://drive.google.com/open?id=0B3BIzDp2-1UldnN6eVR2TmpKa2c</li>
 # Known Bugs
  Feel free to make a patch or pull request if you've fixed any of these bugs listed below. <br>
-<li> 1. Server is known to crash when someone connects to the server, usually if there were no logins in for the last few hours.</li>
-<li> 2. The server doesn't update files.  In Windows, the server stores its files in C:users/username/appdata/locallow/LoE.  I don't know what the OS X/Linux folders are.  Deleting the files inside the data folder of the LoE folder allows the server to update.  </li>
-<li> 3. Inventory doesn't work on the January 2016 client and older.  
-<li> 4. Lantern Monster model not visible, but still deals damage.  </li>
-<li> 5. New ponies sometimes start off at level 0 instead of level 1. </li>
-<li> 6. Adding friends doesn't work </li>
-<li> 7. Portals fail to work on occasion </li>
-<li> 8. On occasion using /stuck and respawning after fainting sends players to the portal they arrived at instead of the default spawn point</li>
+<li>  Server is known to crash when someone connects to the server, usually if there were no logins in for the last few hours.</li>
+<li>  The server doesn't update files.  In Windows, the server stores its files in C:users/username/appdata/locallow/LoE.  I don't know what the OS X/Linux folders are.  Deleting the files inside the data folder of the LoE folder allows the server to update.  </li>
+<li>  Inventory doesn't work on the January 2016 client and older.  
+<li>  Lantern Monster model not visible, but still deals damage.  </li>
+<li>  New ponies sometimes start off at level 0 instead of level 1. </li>
+<li>  Adding friends doesn't work </li>
+<li>  Portals fail to work on occasion </li>
+<li>  On occasion using /stuck and respawning after fainting sends players to the portal they arrived at instead of the default spawn point</li>
