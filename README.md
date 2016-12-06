@@ -34,7 +34,6 @@ If you just interested in playing the game, download the appropriate client usin
 <li>  Server is known to crash when someone connects to the server, usually if there were no logins in for the last few hours.</li>
 <li>  The server doesn't update files.  In Windows, the server stores its files in C:users/username/appdata/locallow/LoE.  I don't know what the OS X/Linux folders are.  Deleting the files inside the data folder of the LoE folder allows the server to update.  </li>
 <li>  Inventory doesn't work on the January 2016 client and older.  
-<li>  Lantern Monster model not visible, but still deals damage.  </li>
 <li>  New ponies sometimes start off at level 0 instead of level 1. </li>
 <li>  Adding friends doesn't work </li>
 <li>  Portals fail to work on occasion </li>
