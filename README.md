@@ -25,10 +25,10 @@ Type help for full commands list</li>
 <li>PROFIT!</li></ol><br>
 # How to Play
 If you just interested in playing the game, download the appropriate client using one of the links below. Please read the rules <a href="https://drive.google.com/open?id=1LyqCj58siA432Rljs2TPhqx-6U1yogmtYudrJe7a6iw">here</a> before playing.<br>
-<li>Windows 32 bit: https://drive.google.com/open?id=0B3BIzDp2-1UlenJmZWdnOGFRaTg</li>
-<li>Windows 64 bit: https://drive.google.com/open?id=0B3BIzDp2-1Ula3pkMnFiUUo0a2c</li>
-<li>OS X: https://drive.google.com/open?id=0B3BIzDp2-1Ulc1dySWhVTE85RU0</li>
-<li>Linux: https://drive.google.com/open?id=0B3BIzDp2-1UldnN6eVR2TmpKa2c</li>
+<li>July 2016 Windows 32 bit: https://drive.google.com/open?id=0B3BIzDp2-1UlenJmZWdnOGFRaTg</li>
+<li>July 2016 Windows 64 bit: https://drive.google.com/open?id=0B3BIzDp2-1Ula3pkMnFiUUo0a2c</li>
+<li>July 2016 OS X: https://drive.google.com/open?id=0B3BIzDp2-1Ulc1dySWhVTE85RU0</li>
+<li>July 2016 Linux: https://drive.google.com/open?id=0B3BIzDp2-1UldnN6eVR2TmpKa2c</li>
 
 <li>Patched .dlls for existing July 2016 Windows clients: https://drive.google.com/open?id=0B3BIzDp2-1UlSDZwS1BkdC1UUVk</li>
 # Known Bugs
