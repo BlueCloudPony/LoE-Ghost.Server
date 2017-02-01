@@ -24,7 +24,6 @@ Type help for full commands list</li>
 <li>?????</li>
 <li>PROFIT!</li></ol><br>
 
-<li>Patched .dlls for existing July 2016 Windows clients: https://drive.google.com/open?id=0B3BIzDp2-1UlSDZwS1BkdC1UUVk</li>
 # Known Bugs
  Feel free to make a patch or pull request if you've fixed any of these bugs listed below. <br>
 <li>  Server is known to crash when someone connects to the server, usually if there were no logins in for the last few hours.  This happens far more often when using the connection_s.json file instead of using patched.dlls</li>
