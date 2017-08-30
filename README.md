@@ -1,3 +1,5 @@
+This fork is unsupported and won't run very well if at all with future Open Access Release clients.  The main IgnisRus34 branch also has quite a few fixes and new features for July 2016 clients.
+
 # Legends of Equestria Private Server
 Tested on Windows 10 with 27.07.2016 (July 2016) client release.
 # Content
